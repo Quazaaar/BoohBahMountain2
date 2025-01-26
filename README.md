@@ -4,6 +4,6 @@ The gold is hidden in a room and you must find it without getting attacked. If y
 
 1. Colin Shiung
 2. https://github.com/Quazaaar/BoohBahMountain
-3. 
+3. https://youtu.be/78e5FXz7TPk
 4. OBS
 Youtube link:
