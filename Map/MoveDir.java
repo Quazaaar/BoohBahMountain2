@@ -1,4 +1,4 @@
 package Map;
 public enum MoveDir {
-    UP, DOWN, LEFT, RIGHT, NONE
+    UP, DOWN, LEFT, RIGHT, NONE, TEST
 }
